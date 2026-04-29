@@ -98,4 +98,4 @@ CAP4630-002 Intro to AI Intelligence
 Spring 2026
 
 📌 Notes:
-Used Streamlit + Visual Studio Code for this project. 
+Used Streamlit + Visual Studio Code for this project. Make sure to download the files onto Visual Studio then run python -m streamlit run app.py
